@@ -1,0 +1,4 @@
+<!--color.xml file custom create by follow this: https://medium.com/@Krizzu/how-to-change-background-color-of-rootview-in-react-native-3279417c34bb-->
+<resources>
+  <color name="background">#F6FAFD</color>
+</resources>
